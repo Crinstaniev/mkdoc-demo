@@ -1,0 +1,8 @@
+site_name: MkDocs-IC Demo
+nav:
+  - Home: 'index.md'
+  - About: 'about.md'
+  - 'SubPages':
+    - 'sub': 'sub.md'
+
+theme: readthedocs
